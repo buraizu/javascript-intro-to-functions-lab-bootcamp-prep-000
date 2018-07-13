@@ -11,4 +11,4 @@ function logShout(string) {
   console.log(upperCase);
 }
 
-logShout('HELLO')
+logShout('HELLO');
